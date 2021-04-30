@@ -1,5 +1,6 @@
 # Image-Security-by-Triple-DES-Final-Year-Project
-Triple DES 
+
+### Triple DES : Data encryption standard (DES)
 
 In cryptography, Triple DES, officially the Triple Data Encryption Algorithm, is a symmetric-key block cipher, which applies the DES cipher algorithm three times to each data block.
 
@@ -10,6 +11,9 @@ Data encryption standard (DES) uses 56 bit key to encrypt any plain text which c
  
 **Triple DES:**
 Triple DES is a encryption technique which uses three instance of DES on same plain text. It uses there different types of key choosing technique in first all used keys are different and in second two keys are same and one is different and in third all keys are same.
+
+![Untitled-Diagram-130-1](https://user-images.githubusercontent.com/28294942/116646664-43a4e280-a996-11eb-9624-fbac40d50855.jpg)
+
 
 **PROJECT CODE: [LINK](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project/blob/main/IMAGE%20SECURITY%203%20DES%20PROJECT%20CODE.pdf)**
 
