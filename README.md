@@ -1,5 +1,6 @@
 # Image-Security-by-Triple-DES-Final-Year-Project
-Triple DES 
+
+## Triple DES 
 
 
 **PROJECT CODE: [LINK](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project/blob/main/IMAGE%20SECURITY%203%20DES%20PROJECT%20CODE.pdf)**
