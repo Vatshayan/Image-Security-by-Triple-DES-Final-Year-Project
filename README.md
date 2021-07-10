@@ -16,6 +16,17 @@ Data encryption standard (DES) uses 56 bit key to encrypt any plain text which c
 **Triple DES:**
 Triple DES is a encryption technique which uses three instance of DES on same plain text. It uses there different types of key choosing technique in first all used keys are different and in second two keys are same and one is different and in third all keys are same.
 
+Triple-DES encryption uses a triple-length DATA key comprised of three 8-byte DES keys to encipher 8 bytes of data using this method:
+
+Encipher the data using the first key
+Decipher the result using the second key
+Encipher the second result using the third key
+The procedure is reversed to decipher data that has been triple-DES enciphered:
+
+Decipher the data using the third key
+Encipher the result using the second key
+Decipher the second result using the first key
+
 ![Untitled-Diagram-130-1](https://user-images.githubusercontent.com/28294942/116646664-43a4e280-a996-11eb-9624-fbac40d50855.jpg)
 
 
