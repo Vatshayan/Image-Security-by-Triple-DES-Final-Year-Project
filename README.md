@@ -2,6 +2,8 @@
 
 **PROJECT GOAL:  ENCRYPTION & DECRYPTION of IMAGE through Triple DES**
 
+### PROJECT PPT : [**LINK**](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project/blob/main/IMAGE%20SECURITY%20BY%203%20DES.pdf)
+
 ### Triple DES : Data encryption standard (DES)
 
 In cryptography, Triple DES, officially the Triple Data Encryption Algorithm, is a symmetric-key block cipher, which applies the DES cipher algorithm three times to each data block.
