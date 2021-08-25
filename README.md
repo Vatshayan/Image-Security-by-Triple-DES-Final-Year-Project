@@ -58,8 +58,9 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-## PROJECTS HELP: [LINK](https://vatshayan007.wixsite.com/website)
-
 Happy to Help you😄😅
 
 ### Youtube Video of this Project: https://www.youtube.com/watch?v=Z8qna_22WTU
+
+### CSE Projects: [LINK](https://www.cse-projects.com)
+
