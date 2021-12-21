@@ -44,23 +44,14 @@ You Can use this Beautiful Project for your college Project and get good marks t
 
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
-💌 Feel free to contact me for any kind of help on projects.
-
-### WANT RESEARCH PAPER
- Email me at **vatshayan007@gmail.com** to get PDF of Research paper based on this Project.
- 
-### HOW TO RUN THE PROJECT-
-⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
-
 ### 📫 HOW TO REACH ME 
 
 💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** +91 9310631437 (Helping 24*7)
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-Happy to Help you😄😅
+💬 CSE Projects: [LINK](https://www.cse-projects.com)
 
 ### Youtube Video of this Project: https://www.youtube.com/watch?v=Z8qna_22WTU
 
-### CSE Projects: [LINK](https://www.cse-projects.com)
-
+### Download all Files with Full Video Explanation : **[LINK](https://vatshayan-technologies.mojo.page/triple-des-project)
