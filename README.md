@@ -52,6 +52,4 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💬 CSE Projects: [LINK](https://www.cse-projects.com)
 
-### Youtube Video of this Project: https://www.youtube.com/watch?v=Z8qna_22WTU
-
 ### Download all Files with Full Video Explanation : **[LINK](https://vatshayan-technologies.mojo.page/triple-des-project)
