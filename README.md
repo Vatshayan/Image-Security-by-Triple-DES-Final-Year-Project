@@ -43,7 +43,7 @@ Decipher the second result using the first key
 
 You Can use this Beautiful Project for your college Project and get good marks too. 
 
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
+Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper(Base Papers) of this Project.
 
 ### 📫 HOW TO REACH ME 
 
